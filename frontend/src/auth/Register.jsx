@@ -9,7 +9,7 @@ import Button from "common/Button";
 import { register } from "api/request.api";
 import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
-
+import "./login.css"
 function Register() {
   const navigate = useNavigate();
 
