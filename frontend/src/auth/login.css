@@ -1,0 +1,65 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+
+/* login */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+.main-login {
+    margin-left: 500px;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    height: auto;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.signIn {
+    font-weight: bold;
+    color: #a7be53;
+    text-align: center;
+}
+
+.account_create {
+    font-weight: bold;
+    margin-top: 50px;
+    color: #462B1F;
+    text-align: center;
+}
+
+.create {
+    color: #462B1F;
+    opacity: 0.9;
+    text-decoration: none;
+}
+
+.btn-login {
+    border-radius: 10px;
+    border: 1px solid #a7be53;
+    background-color: #a7be53;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 10px;
+    transition: transform 80ms ease-in;
+}
+
+.auth_form {
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 50px;
+    margin-top: 40px;
+    height: 100px;
+    text-align: center;
+}
